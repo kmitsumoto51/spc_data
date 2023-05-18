@@ -1,0 +1,12 @@
+cooling
+n1_n2_n3_n4_n5_n6_n7_n8.txt
+n1 = L, n2 = mu*100, n3 = P = 0 n4 = alpha*100, n5 = k*100, n6 = R*100, n7 = MCS, n8 = seed
+
+heating
+n1_n2_n3_n4_n5_n6_n7_n8_heat.txt
+n1 = L, n2 = mu*100, n3 = P = 0 n4 = alpha*100, n5 = k*100, n6 = R*100, n7 = MCS, n8 = seed
+
+column1 = T
+column3 = C
+column4 = Nads/N
+column7 = V

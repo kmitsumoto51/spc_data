@@ -1,0 +1,43 @@
+cooling
+n1_n2_n3_n4_n5_n6_n7.txt
+n1 = L, n2 = mu*100, n3 = P = 0 n4 = alpha*100, n5 = k*100, n6 = MCS, n7 = seed
+
+heating
+n1_n2_n3_n4_n5_n6_n7_heat.txt
+n1 = L, n2 = mu*100, n3 = P = 0 n4 = alpha*100, n5 = k*100, n6 = MCS, n7 = seed
+
+multicanonical
+n1_n2_n3_n4_n5_n6_n7_eq.txt
+n1 = L, n2 = mu*100, n3 = P = 0 n4 = alpha*100, n5 = k*100, n6 = MCS, n7 = seed
+
+column1 = T
+column3 = C
+column4 = Nads/N
+column7 = V
+
+increasing mu
+n1_n2_n3_n4_n5_n6_n7_mu_up.txt
+n1 = L, n2 = T*10000, n3 = P = 0 n4 = alpha*100, n5 = k*100, n6 = MCS, n7 = seed
+
+decreasing mu
+n1_n2_n3_n4_n5_n6_n7_mu_down.txt
+n1 = L, n2 = T*10000, n3 = P = 0 n4 = alpha*100, n5 = k*100, n6 = MCS, n7 = seed
+
+column1 = mu
+column3 = C
+column4 = Nads/N
+column7 = V
+
+energy histogram
+n1_n2_n3_n4_n5_n6_n7_n8_reweight.txt
+n1 = L, n2 = mu*100, n3 = P = 0 n4 = alpha*100, n5 = T*10000, n6 = k*100, n7 = MCS/100, n8 = seed
+
+column2 = E/N
+column3 = P(E/N)
+
+landscape
+n1_n2_n3_n4_n5_n6_n7_n8_reweight_nads.txt
+n1 = L, n2 = mu*100, n3 = P = 0 n4 = alpha*100, n5 = T*10000, n6 = k*100, n7 = MCS/100, n8 = seed
+
+column2 = N_ads/N
+column3 = P(N_ads/N)

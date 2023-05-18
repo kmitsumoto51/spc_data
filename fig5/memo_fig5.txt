@@ -1,0 +1,12 @@
+configuration cooling
+n1_n2_n3_n4_n5_n6_n7_n8.txt
+
+configuration heating
+n1_n2_n3_n4_n5_n6_n7_n8_heat.txt
+n1 = L, n2 = mu*100, n3 = P = 0 n4 = alpha*100, n5 = T*10000, n6 = k*100, n7 = MCS/100, n8 = seed
+
+column1 = V/L
+column2 = xi
+column3 = yi
+column4 = sigma
+column10 = elastic energy

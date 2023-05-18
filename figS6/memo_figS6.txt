@@ -1,0 +1,10 @@
+guest cluster
+n1_n2_n3_n4_n5_n6_n7_n8size_ref.txt
+
+void cluster
+n1_n2_n3_n4_n5_n6_n7_n8size_ref_void.txt
+
+n1 = L, n2 = mu*100, n3 = P = 0 n4 = alpha*100, n5 = k*100, n6 = MCS, n7 = seed, n8 = # of particles
+
+column1 = distance
+column2 = elastic energy per a particle

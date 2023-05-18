@@ -1,0 +1,13 @@
+k fixed
+n1_n2_n3_n4_pair_ref.txt
+n1 = L, n2 = k*100, n3 = MCS, n4 = seed
+
+column1 = alpha
+column4 = Ueff
+
+alpha fixed
+n1_n2_n3_n4_pair_ref_aposi.txt
+n1 = L, n2 = alpha*100, n3 = MCS, n4 = seed
+
+column1 = k
+column4 = Ueff

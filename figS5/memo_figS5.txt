@@ -1,0 +1,28 @@
+two-body guest horizontal
+n1_n2_n3_n4_n5_n6_n7_pair_ref.txt
+
+two-body guest diagonal
+n1_n2_n3_n4_n5_n6_n7_pair2_ref.txt
+
+three-body guest horizontal
+n1_n2_n3_n4_n5_n6_n7_triple_ref.txt
+
+three-body guest vertical
+n1_n2_n3_n4_n5_n6_n7_triple2_ref.txt
+
+two-body void horizontal
+n1_n2_n3_n4_n5_n6_n7_pair_vac_ref.txt
+
+two-body void diagonal
+n1_n2_n3_n4_n5_n6_n7_pair2_vac_ref.txt
+
+three-body void horizontal
+n1_n2_n3_n4_n5_n6_n7_triple_vac_ref.txt
+
+three-body void vertical
+n1_n2_n3_n4_n5_n6_n7_triple2_vac_ref.txt
+
+n1 = L, n2 = mu*100, n3 = P = 0 n4 = alpha*100, n5 = k*100, n6 = MCS, n7 = seed
+
+column1 = distance
+column2 = elastic energy

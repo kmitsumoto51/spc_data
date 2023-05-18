@@ -1,0 +1,11 @@
+cooling dynamics
+n1_n2_n3_n4_n5_n6_n7_n8_dynamics.txt
+n1 = L, n2 = mu*100, n3 = P = 0 n4 = alpha*100, n5 = T*10000, n6 = k*100, n7 = MCS/100, n8 = seed
+
+heating dynamics
+n1_n2_n3_n4_n5_n6_n7_n8_heat_dynamics.txt
+n1 = L, n2 = mu*100, n3 = P = 0 n4 = alpha*100, n5 = T*10000, n6 = k*100, n7 = MCS/100, n8 = seed
+
+column1 = t
+column2 = Nads
+column9 = maximum cluster size
